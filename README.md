@@ -1,4 +1,4 @@
-# 🏓 Classic Pong Game
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=580&height=50&lines=Classic+Pong+Game;Paddle+%F0%9F%8F%93+Ball+%F0%9F%8F%90+Score+%F0%9F%8F%86" alt="Typing SVG" />
